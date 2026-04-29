@@ -11,6 +11,11 @@ It includes:
 - S3 bucket
 - Output variables
 - GitHub Actions for validation and planning
+- ALB
+- Auto Scaling
+- RDS
+- Terraform
+- AWS CLI
 
 ## Tech Stack
 - Terraform
@@ -30,7 +35,11 @@ The infrastructure provisions a secure VPC network with an EC2 web server and S3
 - Parameterized variables
 - Automated infrastructure validation
 - CI/CD pipeline integration
-- Production-ready structure
+- Infrastructure as Code
+- CI/CD automation
+- Production-grade architecture
+- Scalable deployment
+- Secure networking
 
 ## Deployment Steps
 ```bash
