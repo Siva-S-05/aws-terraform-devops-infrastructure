@@ -1,4 +1,4 @@
-# Production-Grade AWS Infrastructure Automation Using Terraform
+# Production-Grade AWS Infrastructure Automation Using Terraform and CI/CD
 
 ## Overview
 This project automates the provisioning of production-grade AWS infrastructure using Terraform and CI/CD workflows.
